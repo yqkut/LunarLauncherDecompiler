@@ -2,7 +2,6 @@ import os
 
 def getLunarResourcesPath():
     AppdataPath = os.getenv("APPDATA")
-    # Corrected the path based on your provided information
     ProgramsPath = AppdataPath + "\\..\\Local\\Programs"
     LunarResourcesPath = ProgramsPath + "\\launcher\\resources"
 
