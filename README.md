@@ -1,5 +1,3 @@
-# LunarLauncherDecompiler
+# ElectronDecompiler
 
-ENG: Decompile, compile the Launcher of the Lunar Client.
-
-TR: Lunar Client'ın launcher'ını Decompile eder, Compile eder.
+this script allows u to decompile and compile electron based apps
